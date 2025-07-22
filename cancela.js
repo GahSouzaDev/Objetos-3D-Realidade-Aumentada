@@ -390,7 +390,7 @@ const bar33 = new THREE.Mesh(bar30Geometry, bar32Material);
 bar33.position.set(-0.28, 0.6, 0.4);
 bar33.rotation.x = Math.PI / 2;
 group.add(bar33);
-   group.scale.set(2, 2, 2);
+   group.scale.set(1, 1, 1);
 
 return group;
    

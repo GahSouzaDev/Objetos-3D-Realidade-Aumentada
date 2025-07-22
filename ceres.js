@@ -1059,7 +1059,7 @@ const cylinder104 = new THREE.Mesh(cylinder104Geometry, cylinderBlack);
 
     // Ajuste final da posição do grupo no espaço
    
-   
+   group.scale.set(0.8, 0.8, 0.8);
 
     return group;
 }

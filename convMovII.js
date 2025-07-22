@@ -412,7 +412,7 @@ function createConvMovII() {
              cylinder20, cylinder21, cylinder22, cylinder23, cylinder24, cylinder25, cylinder71, cylinder81);
 
              
-             group.scale.set(2, 2, 2);
+             group.scale.set(1, 1, 1);
 
     return group;
     

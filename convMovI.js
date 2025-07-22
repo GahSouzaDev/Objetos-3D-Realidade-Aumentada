@@ -274,7 +274,7 @@ function createConvMovI() {
 
     // Mover todo o grupo 1 unidade para baixo no eixo Y
     
-       group.scale.set(2, 2, 2);
+       group.scale.set(1, 1, 1);
 
     return group;
 }
